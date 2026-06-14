@@ -5,7 +5,7 @@ from PIL import Image
 import io
 
 # 1. Gemini API 설정 (발급받은 자신의 API 키를 입력하세요)
-GOOGLE_API_KEY = "AQ.Ab8RN6JbSXHIu-43CjHT2AClavXfFD4Q_0EswyBhfKjHaPM8wA"
+GOOGLE_API_KEY = ""
 
 # 페이지 기본 설정
 st.set_page_config(
